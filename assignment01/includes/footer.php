@@ -1,0 +1,1 @@
+<footer><div id="ftrtxt"><p><span>foot-er/ˈfo͝otər/</span></p><p>a line or block of text appearing at the foot of each page of a book or document.</p></div></footer>

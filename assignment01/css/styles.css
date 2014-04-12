@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;
+}
+
+header {
+	width:100%;
+	background-color:grey;
+	color:#FFFFFF;
+	font-size:18px;
+	padding:5px;
+}
+
+header span {
+	font-size:150px;
+	line-height:135px;
+}
+
+p {
+	margin:0;
+	padding-left:10px;
+}
+
+#hdrday {
+	width:100%;
+	height:200px;
+	background-color:grey;
+	color:#FFFFFF;
+	font-size:18px;
+	padding:5px;
+	text-align:center;
+}
+
+#hdrday span {
+	font-size:120px;
+}
+
+#content {
+	float:center;
+	margin:0 auto;
+	padding-top:100px;
+	padding-bottom:100px;
+	text-align:center;
+	color:grey;
+}
+	
+footer {
+	width:100%;
+	background-color:white;
+}
+
+#ftrtxt {
+	color:grey;
+	font-size:18px;
+	padding-left:10px;	
+}
+
+#ftrtxt span {
+	line-height:135px;	
+	font-size:150px;
+}
+
+#ftrtime {
+	color:grey;
+	font-size:18px;		
+}
+
+#ftrtime span {
+	font-size:120px;
+}
+
