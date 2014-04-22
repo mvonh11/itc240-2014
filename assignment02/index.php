@@ -33,6 +33,8 @@ input {
 <input placeholder="number (btwn10&14)" name="number1">
 <input placeholder="number" name="number2">
 <input placeholder="number" name="number3">
+<input placeholder="number 21+" name="number2">
+<input placeholder="number 21+" name="number3">
 <input placeholder="verb" name="verb">
 <input placeholder="noun" name="noun">
 <button>POST</button>
